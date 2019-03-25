@@ -8,6 +8,6 @@ I have tested this script running directly connected to the observerIP.  It ran 
 
 I only have one model of the observerIP so I don't know if this will work with other models.  The code however is very straight forward.
 
-You will need to download the Apache Commons String Tools and install them in to the Processing3 Library.  One of the issues I had when doing this is that when Processing3 scans the library directory, it does not like underscores.  Rename your library files.
+You will need to download org.apache.commons.lang3.StringUtils and install them in to the Processing3 Library.  One of the issues I had when doing this is that when Processing3 scans the library directory, it does not like underscores.  Rename your library files.
 
 Pacolux
